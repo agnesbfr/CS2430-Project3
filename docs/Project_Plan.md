@@ -71,24 +71,28 @@
 - **Assignee:** Agnes 
 - **Status:** In Progress
 
-### Design Artifacts
-- **Assignee:** Kevin and Latifah  
-- **Status:** Not started
+### Design Artifact 1
+- **Assignee:** Kevin  
+- **Status:** Done
+
+### Design Artifact 2
+- **Assignee:** Latifah  
+- **Status:** In Progress
 
 ### Checkpoint
 - **Assignee:** Agnes  
 - **Status:** Not started
 
 ### Greedy Strategy – (3 Methods)
-- **Assignee:** Kevin or Latifah  
+- **Assignee:** Kevin  
 - **Status:** Not Started  
 
 ### Brute Force – (Subset Generation + Evaluation)
-- **Assignee:** Kevin or Latifah  
+- **Assignee:** Latifah  
 - **Status:** Not Started  
 
 ### Top 3 Valid Solutions Selection
-- **Assignee:** Kevin or Latifah  
+- **Assignee:** Kevin and Latifah  
 - **Status:** Not Started  
 
 ### Output + Comparison Summary
