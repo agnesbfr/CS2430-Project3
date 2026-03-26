@@ -73,7 +73,7 @@
 
 ### Design Artifact 1
 - **Assignee:** Kevin  
-- **Status:** Done
+- **Status:** Done (docs/project 3 PSEUDOCODE)
 
 ### Design Artifact 2
 - **Assignee:** Latifah  
