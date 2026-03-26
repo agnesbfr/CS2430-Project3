@@ -5,7 +5,7 @@
 
 • Project: Project 3 - Team 3
 
-• Team Name: 
+• Team Name: Team 3
 
 • Start Date: 03.23.26
 
@@ -69,7 +69,7 @@
 
 ### CONTRIBUTIONS.md
 - **Assignee:** Agnes 
-- **Status:** In Progress
+- **Status:** Done (docs/contributions.md)
 
 ### Design Artifact 1
 - **Assignee:** Kevin  
