@@ -73,11 +73,11 @@
 
 ### Design Artifact 1
 - **Assignee:** Kevin  
-- **Status:** Done (docs/project 3 PSEUDOCODE)
+- **Status:** Done (docs/pseudocode.md)
 
 ### Design Artifact 2
 - **Assignee:** Latifah  
-- **Status:** In Progress
+- **Status:** Done (docs/Uml.png)
 
 ### Checkpoint
 - **Assignee:** Agnes  
