@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.4.0">
+  <diagram name="Page-1" id="UR3lsgTIzI7b4cYBjS9b">
+    <mxGraphModel dx="1011" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="C4fsHnfGrWd4cRyVat-s-16" edge="1" parent="1" source="C4fsHnfGrWd4cRyVat-s-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="C4fsHnfGrWd4cRyVat-s-12" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C4fsHnfGrWd4cRyVat-s-21" edge="1" parent="1" source="C4fsHnfGrWd4cRyVat-s-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="C4fsHnfGrWd4cRyVat-s-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="C4fsHnfGrWd4cRyVat-s-1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Main&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="56" width="140" x="310" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C4fsHnfGrWd4cRyVat-s-2" parent="C4fsHnfGrWd4cRyVat-s-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;+ main ( )&lt;/font&gt;" vertex="1">
+          <mxGeometry height="26" width="140" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C4fsHnfGrWd4cRyVat-s-12" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Experiment&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="140" width="180" x="170" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="C4fsHnfGrWd4cRyVat-s-13" parent="C4fsHnfGrWd4cRyVat-s-12" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;+ name&lt;/font&gt;" vertex="1">
+          <mxGeometry height="26" width="180" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C4fsHnfGrWd4cRyVat-s-14" parent="C4fsHnfGrWd4cRyVat-s-12" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;+ weight&lt;/font&gt;" vertex="1">
+          <mxGeometry height="26" width="180" y="56" as="geometry" />
+        </mxCell>
+        <mxCell id="C4fsHnfGrWd4cRyVat-s-15" parent="C4fsHnfGrWd4cRyVat-s-12" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;+ rating&lt;/font&gt;" vertex="1">
+          <mxGeometry height="58" width="180" y="82" as="geometry" />
+        </mxCell>
+        <mxCell id="C4fsHnfGrWd4cRyVat-s-17" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;KnapsackSolver&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="150" width="210" x="450" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="C4fsHnfGrWd4cRyVat-s-18" parent="C4fsHnfGrWd4cRyVat-s-17" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;+ greedyByRating ()&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;+ greedyByWeight ()&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;+ greedyByRatio()&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;+ bruteForce&lt;br&gt;+ dynamicProgramming()&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="210" y="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
