@@ -85,39 +85,39 @@
 
 ### Greedy Strategy – (3 Methods)
 - **Assignee:** Kevin  
-- **Status:** Not Started  
+- **Status:** Done (CS2430-Project3/Project3)
 
 ### Brute Force – (Subset Generation + Evaluation)
 - **Assignee:** Latifah  
-- **Status:** Not Started  
+- **Status:** Done (CS2430-Project3/Project3)
 
 ### Top 3 Valid Solutions Selection
 - **Assignee:** Kevin and Latifah  
-- **Status:** Not Started  
+- **Status:** Done (CS2430-Project3/Project3)
 
 ### Output + Comparison Summary
 - **Assignee:** Jimmy, Kevin and Latifah  
-- **Status:** Not Started  
+- **Status:** Done (CS2430-Project3/Project3)
 
 ### Unit Tests
 - **Assignee:** Jimmy  
-- **Status:** Not Started  
+- **Status:** Done (CS2430-Project3/Project3) 
 
 ### Edge Case Testing
 - **Assignee:** Jimmy  
-- **Status:** Not Started  
+- **Status:** Done (CS2430-Project3/Project3)
 
 ### Results Verification
 - **Assignee:** Jimmy  
-- **Status:** Not Started
+- **Status:** Done (CS2430-Project3/Project3)
 
 ### Code Quality Check
 - **Assignee:** Jimmy  
-- **Status:** Not Started
+- **Status:** Done (CS2430-Project3/Project3)
 
 ### Report Questions (Section 8)
 - **Assignee:** Team  
-- **Status:** Not Started
+- **Status:** In Progress
 
 ### Final Report
 - **Assignee:** Team  
