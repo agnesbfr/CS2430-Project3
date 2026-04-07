@@ -81,7 +81,7 @@
 
 ### Checkpoint
 - **Assignee:** Agnes  
-- **Status:** Not started
+- **Status:** Done (docs/checkpoint.pdf)
 
 ### Greedy Strategy – (3 Methods)
 - **Assignee:** Kevin  
@@ -121,7 +121,7 @@
 
 ### Final Report
 - **Assignee:** Team  
-- **Status:** Not Started
+- **Status:** In Progress
 
 ### Video Report
 - **Assignee:** Agnes
