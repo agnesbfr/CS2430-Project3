@@ -117,12 +117,12 @@
 
 ### Report Questions (Section 8)
 - **Assignee:** Team  
-- **Status:** In Progress
+- **Status:** Done (In report)
 
 ### Final Report
 - **Assignee:** Team  
-- **Status:** In Progress
+- **Status:** Done (Sent by Canvas)
 
 ### Video Report
 - **Assignee:** Agnes
-- **Status:** Not Started
+- **Status:** Done (Sent by Canvas)
